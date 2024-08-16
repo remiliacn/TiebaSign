@@ -6,11 +6,14 @@
 
 <h1 align="center">TiebaSign-贴吧签到助手</h1>
 
+
 <section align="center">
 <img src="https://yife68.gitee.io/icat-pic/posts/2022/5/3.svg" />
 </section>
 
 # 使用
+[![Baidu Tieba Auto Sign](https://github.com/remiliacn/TiebaSign/actions/workflows/main.yml/badge.svg)](https://github.com/remiliacn/TiebaSign/actions/workflows/main.yml)
+
 自动化执行任务: 百度贴吧每日签到
 自动化运行时间: 北京时间 **凌晨02点** 以及 **下午18点**（可修改 时间差为+8）
 
