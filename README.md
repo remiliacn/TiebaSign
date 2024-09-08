@@ -1,5 +1,9 @@
 <h1 align="center">TiebaSign-贴吧签到助手</h1>
 
+# Job status
+
+![](https://github.com/remiliacn/TiebaSign/actions/workflows/main.yml/badge.svg)
+
 # 使用
 
 自动化执行任务: 百度贴吧每日签到
